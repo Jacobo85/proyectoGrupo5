@@ -29,6 +29,11 @@ import java.text.NumberFormat.Style;
 import java.awt.event.ActionEvent;
 import javax.swing.border.EmptyBorder;
 
+/*
+ * Esta clase implementa la primera pantalla para poder registrarse
+ * 
+ * @Version 1.0
+ */
 
 public class Welcome {
 
